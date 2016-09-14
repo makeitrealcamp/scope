@@ -10,7 +10,7 @@ Normalmente estos problemas se pueden solucionar facilmente entendiendo bien com
 
 Tu reto es ir al archivo `function.js` y cambiar todos los `'???'` de forma que las pruebas pasen.
 
-Para hacer esto corre el archivo `SpecRunner.html` en tu navegador. Inicialmente podras ver que la primera prueba pasa y las siguientes no.
+Para hacer esto corre el archivo `index.html` en tu navegador. Inicialmente podras ver que la primera prueba pasa y las siguientes no.
 
 ve al archivo `function.js` y empieza arreglar las pruabas siguiendo las reglas de `scope` en javascript para que todas las pruebas pasen. Recuerda que `function.js` es un archivo de javascript como cualquier otro por lo cual puedes hacer `console.log` para debuggear tu aplicacion.
 
